@@ -1,0 +1,7 @@
+/home/santhosh/Cloud-Carage/java-dockerfile/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/model/Stock.java
+/home/santhosh/Cloud-Carage/java-dockerfile/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/resources/StockResource.java
+/home/santhosh/Cloud-Carage/java-dockerfile/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/repositories/StockRepository.java
+/home/santhosh/Cloud-Carage/java-dockerfile/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/StockManagerApplication.java
+/home/santhosh/Cloud-Carage/java-dockerfile/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/services/StockService.java
+/home/santhosh/Cloud-Carage/java-dockerfile/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/exceptions/StockNotFoundException.java
+/home/santhosh/Cloud-Carage/java-dockerfile/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/config/DataGenerator.java
